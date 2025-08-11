@@ -4,22 +4,27 @@ public class SummationOfFirst20Integers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the range:");
-        int N = sc.nextInt();
+        double N = sc.nextDouble();
+        
         int result = summation(N);
         if(result == -1){
             System.out.println("Invalid range");
         } else {
             System.out.println(result);
         }
+        sc.close();
     }
-    public static int summation(int N){
-        boolean isFractional = true;
+
+    public static int summation(double N){
+        if (N <= 0) return -1;
+        if (N != (int) N) return -1; // fractional check
+
+        int intN = (int) N;
         int result = 0;
-        if(N < 0) return -1;
-        if(isFractional) return -1;
-        for(int i = 1; i <= N; i++){
+        for (int i = 1; i <= intN; i++){
             result += i;
         }
         return result;
     }
 }
+

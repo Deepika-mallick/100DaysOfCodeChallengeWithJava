@@ -1,8 +1,6 @@
 # 🏆 100 Days of Code Challenge
 <br>
 <h1>Author - <b>Deepika Mallick</b></h1>
-<br>
-resource - <a href = "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=BCogity2zi9OYSPX">Java + DSA + interview preperation bootcamp</a> by <b>Kunal Kushwaha</b>
 <hr>
 <ul>
   <li><b>Bachelor's of Technology (Computer Science)</b> from <b>V.I.T. BHOPAL UNIVERSITY</b></li>
@@ -32,3 +30,4 @@ This repository is designed to help you **learn, revise, and practice** DSA conc
 - Beginner-friendly and follows **Java best practices**<br>
 
 ---
+resource - <a href = "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=BCogity2zi9OYSPX">Java + DSA + interview preperation bootcamp</a> by <b>Kunal Kushwaha</b>

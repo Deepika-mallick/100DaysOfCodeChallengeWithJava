@@ -15,18 +15,18 @@ This repository is designed to help you **learn, revise, and practice** DSA conc
 <hr>
 ## 🎯 Goals
 <br>
-- Strengthen problem-solving skills.
-- Learn new programming concepts and technologies.
-- Build and deploy small projects.
-- Develop a consistent coding habit.
+- Strengthen problem-solving skills.<br>
+- Learn new programming concepts and technologies.<br>
+- Build and deploy small projects.<br>
+- Develop a consistent coding habit.<br>
 ---
 <br>
 ## 🚀 Features
 <br>
-- **Clean & well-documented** Java implementations
-- Covers **core DSA topics**: Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hashing, and more
-- **Algorithm categories**: Sorting, Searching, Recursion, Dynamic Programming, Greedy Algorithms, etc.
-- Example **practice problems** for each topic
-- Beginner-friendly and follows **Java best practices**
+- **Clean & well-documented** Java implementations<br>
+- Covers **core DSA topics**: Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hashing, and more<br>
+- **Algorithm categories**: Sorting, Searching, Recursion, Dynamic Programming, Greedy Algorithms, etc.<br>
+- Example **practice problems** for each topic<br>
+- Beginner-friendly and follows **Java best practices**<br>
 
 ---

@@ -8,7 +8,6 @@
 </ul>
 <hr>
 <h3>Objective</h3>
-<br>
 A comprehensive collection of **Data Structures and Algorithms (DSA)** implemented in **Java**, with explanations and example problems.  
 This repository is designed to help you **learn, revise, and practice** DSA concepts efficiently.
 <hr>

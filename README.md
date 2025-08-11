@@ -1,7 +1,6 @@
 # 🏆 100 Days of Code Challenge
 <br>
 <h1>Author - <b>Deepika Mallick</b></h1>
-<hr>
 <ul>
   <li><b>Bachelor's of Technology (Computer Science)</b> from <b>V.I.T. BHOPAL UNIVERSITY</b></li>
   <li>Ex-Intern <b>@MONOCLOUD India LLP</b></li>

@@ -11,7 +11,10 @@ public class MethodOverloadingByDatatypesOfParameters {
 
     public static void main(String[] args) {
         MethodOverloadingByDatatypesOfParameters sc = new MethodOverloadingByDatatypesOfParameters();
-        sc.numbers(1, 2);
-        sc.numbers(2.3, 3.4);
+        int result = sc.numbers(1, 2);
+        double resultD = sc.numbers(2.3, 3.4);
+        System.out.println(result);
+        System.out.println(resultD);
     }
 }
+

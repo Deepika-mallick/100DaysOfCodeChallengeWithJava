@@ -5,8 +5,9 @@ public class transposeOfTheMatrix {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the length of row");
         int rows = sc.nextInt();
-        int columns = sc.nextInt();
         System.out.println("Enter the length of column");
+        int columns = sc.nextInt();
+        
         int [][] matrix = new int[rows][columns];
 
         System.out.println("Enter the characters of the matrix");
@@ -24,3 +25,4 @@ public class transposeOfTheMatrix {
         }
     }
 }
+
